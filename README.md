@@ -7,12 +7,12 @@
 - faire un questionnaire de satisfaction pour savoir ce qui a plu / moins plus
 
 
-## Panorama IA 1 : généralités 
+## Panorama IA (1h20) 
 
 ### Aperçu de cas d'usage IA 
 
 
-## Les notions clés en IA 
+### Les notions clés en IA 
 
 #### Qu'est ce qu'un algo 
 #### Qu'est ce qu'un modèle 
@@ -24,7 +24,7 @@
 ### Préparation des data, entraînement, choix de l'algo -> reuse à faire de vis ma vie de DS
 
 
-## IA literacy : 2 kiosque
+## IA literacy : 2 kiosques (2 x 20 min) 
 
 
 - Réussir sa campagne d'annotation: pres linalgo 
